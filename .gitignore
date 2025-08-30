@@ -69,3 +69,4 @@ Thumbs.db
 *.log
 chromedriver.log
 geckodriver.log
+.env
