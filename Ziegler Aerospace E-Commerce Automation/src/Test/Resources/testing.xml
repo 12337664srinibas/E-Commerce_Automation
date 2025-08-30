@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ZieglerAerospace_ECommerce_TestSuite" verbose="1" parallel="false">
+    <test name="E-Commerce Workflow Automation" preserve-order="true">
+        <classes>
+            <class name="com.ziegler.aerospace.tests.ECommerceWorkflowTest"/>
+        </classes>
+    </test>
+</suite>
